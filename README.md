@@ -38,14 +38,6 @@ Um sistema web desenvolvido em Django para auxiliar profissionais de saúde ment
 - Registro de visualizações de consultas compartilhadas
 - Histórico de criação e atualização de registros
 
-## 🖼️ Screenshots
-
-![Dashboard](path/to/dashboard-screenshot.png)
-*Dashboard principal do sistema*
-
-![Perfil do Paciente](path/to/patient-profile-screenshot.png)
-*Tela de perfil do paciente*
-
 ## 🛠 Tecnologias Utilizadas
 
 - Django 4.x
